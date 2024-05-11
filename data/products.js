@@ -306,7 +306,7 @@ export const products = [
   },
   {
     id: "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
-    image: "images/products/Laptop3.png",
+    image: "images/products/laptop3.png",
     name: "Acer office laptop - metallic",
     rating: {
       stars: 4.5,
