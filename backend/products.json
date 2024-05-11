@@ -1,0 +1,642 @@
+{
+  "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
+  "image": "images/products/Laptop1.png",
+  "name": "ROG Strix G15 (2022) Gaming Laptop",
+  "rating": {
+    "stars": 5,
+    "count": 136
+  },
+  "priceCents": 79999,
+  "keywords": [
+    "Laptop",
+    "Gaming",
+    "ROG"
+  ]
+},
+{
+  "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+  "image": "images/products/Laptop2.png",
+  "name": "Lenovo V15 G4 Business Laptop",
+  "rating": {
+    "stars": 4,
+    "count": 120
+  },
+  "priceCents": 69999,
+  "keywords": [
+    "Laptop",
+    "Business"
+  ]
+},
+{
+  "id": "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
+  "image": "images/products/Shirt1.png",
+  "name": "Adults Plain Cotton T-Shirt",
+  "rating": {
+    "stars": 4,
+    "count": 76
+  },
+  "priceCents": 999,
+  "keywords": [
+    "tshirt",
+    "mens"
+  ],
+  "type": "clothing",
+  "sizeChartLink": "images/clothing-size-chart.png"
+},
+{
+  "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
+  "image": "images/products/Mobile1.png",
+  "name": "Samsung S22 Ultra (8GB, 128GB) - Gray",
+  "rating": {
+    "stars": 5,
+    "count": 2197
+  },
+  "priceCents": 17999,
+  "keywords": [
+    "electronics",
+    "mobile",
+    "appliances"
+  ]
+},
+{
+  "id": "3ebe75dc-64d2-4137-8860-1f5a963e534b",
+  "image": "images/products/Pant1.png",
+  "name": "MEN - Slim Fit Pant (Dark Peach)",
+  "rating": {
+    "stars": 4,
+    "count": 37
+  },
+  "priceCents": 1667,
+  "keywords": [
+    "pants",
+    "clothing",
+    "men"
+  ]
+},
+{
+  "id": "8c9c52b5-5a19-4bcb-a5d1-158a74287c53",
+  "image": "images/products/Pant2.png",
+  "name": "MEN - Slim Fit Pant (Dark green)",
+  "rating": {
+    "stars": 4.5,
+    "count": 175
+  },
+  "priceCents": 1499,
+  "keywords": [
+    "pants",
+    "men",
+    "clothing"
+  ]
+},
+{
+  "id": "dd82ca78-a18b-4e2a-9250-31e67412f98d",
+  "image": "images/products/Chair-black.png",
+  "name": "Gaming Chair - ( Black )",
+  "rating": {
+    "stars": 4.5,
+    "count": 1024
+  },
+  "priceCents": 12000,
+  "keywords": [
+    "chair",
+    "gaming",
+    "black"
+  ]
+},
+{
+  "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
+  "image": "images/products/Chair-blue.png",
+  "name": "Luxury Gaming Chair - ( Blue-Black )",
+  "rating": {
+    "stars": 5,
+    "count": 999
+  },
+  "priceCents": 13099,
+  "keywords": [
+    "chair",
+    "gaming",
+    "black",
+    "blue"
+  ]
+},
+{
+  "id": "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
+  "image": "images/products/chair-red.png",
+  "name": "Super Luxury Gaming Chair - (Red-Black)",
+  "rating": {
+    "stars": 5,
+    "count": 179
+  },
+  "priceCents": 13999,
+  "keywords": [
+    "bathroom",
+    "cleaning"
+  ]
+},
+{
+  "id": "58b4fc92-e98c-42aa-8c55-b6b79996769a",
+  "image": "images/products/backpack.jpg",
+  "name": "Waterproof Backpack - (Black)",
+  "rating": {
+    "stars": 4,
+    "count": 89
+  },
+  "priceCents": 3090,
+  "keywords": [
+    "backpack",
+    "black",
+    "school"
+  ]
+},
+{
+  "id": "5968897c-4d27-4872-89f6-5bcb052746d7",
+  "image": "images/products/Headset1.png",
+  "name": "Gaming Headphones with ANC - Black",
+  "rating": {
+    "stars": 4.5,
+    "count": 235
+  },
+  "priceCents": 3570,
+  "keywords": [
+    "gaming",
+    "headphones",
+    "tech",
+    "ANC"
+  ],
+  "type": "gaming"
+},
+{
+  "id": "aad29d11-ea98-41ee-9285-b916638cac4a",
+  "image": "images/products/Headset2.png",
+  "name": "Well-desgned Gaming Headset - (Black)",
+  "rating": {
+    "stars": 4.5,
+    "count": 300
+  },
+  "priceCents": 4060,
+  "keywords": [
+    "gaming",
+    "headphones",
+    "tech",
+    "ANC"
+  ]
+},
+{
+  "id": "04701903-bc79-49c6-bc11-1af7e3651358",
+  "image": "images/products/Keyboard1.png",
+  "name": "AF-Keyboard with Blue Light",
+  "rating": {
+    "stars": 4,
+    "count": 423
+  },
+  "priceCents": 4399,
+  "keywords": [
+    "gaming",
+    "keyboard",
+    "tech"
+  ]
+},
+{
+  "id": "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
+  "image": "images/products/Keyboard2.png",
+  "name": "RGB - Gaming Keyboard - (Metallic Black )",
+  "rating": {
+    "stars": 4.5,
+    "count": 232
+  },
+  "priceCents": 4599,
+  "keywords": [
+    "gaming",
+    "keyboard",
+    "tech"
+  ]
+},
+{
+  "id": "82bb68d7-ebc9-476a-989c-c78a40ee5cd9",
+  "image": "images/products/Pant3.png",
+  "name": "Men's Slim-Fit Summer Pant - Gray",
+  "rating": {
+    "stars": 4,
+    "count": 260
+  },
+  "priceCents": 1599,
+  "keywords": [
+    "pants",
+    "clothings",
+    "mens"
+  ]
+},
+{
+  "id": "c2a82c5e-aff4-435f-9975-517cfaba2ece",
+  "image": "images/products/Headset3.png",
+  "name": "Gaming Headphones with ANC - White",
+  "rating": {
+    "stars": 5,
+    "count": 999
+  },
+  "priceCents": 4274,
+  "keywords": [
+    "gaming",
+    "headphones",
+    "tech",
+    "ANC"
+  ]
+},
+{
+  "id": "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
+  "image": "images/products/Laptop3.png",
+  "name": "Acer office laptop - metallic",
+  "rating": {
+    "stars": 4.5,
+    "count": 102
+  },
+  "priceCents": 59974,
+  "keywords": [
+    "Laptop",
+    "Business",
+    "acer"
+  ]
+},
+{
+  "id": "a82c6bac-3067-4e68-a5ba-d827ac0be010",
+  "image": "images/products/Laptop4.png",
+  "name": "HP Pavillion Laptop ( 8GB, 512GB)",
+  "rating": {
+    "stars": 4,
+    "count": 232
+  },
+  "priceCents": 65000,
+  "keywords": [
+    "Laptop",
+    "Business",
+    "HP"
+  ]
+},
+{
+  "id": "e4f64a65-1377-42bc-89a5-e572d19252e2",
+  "image": "images/products/Mobile2.png",
+  "name": "Iphone 13 Pro - Light Blue ",
+  "rating": {
+    "stars": 4.5,
+    "count": 52
+  },
+  "priceCents": 69999,
+  "keywords": [
+    "mobile",
+    "electronics",
+    "Iphone"
+  ]
+},
+{
+  "id": "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
+  "image": "images/products/Mobile3.png",
+  "name": "Iphone 12 Pro - 256 GB",
+  "rating": {
+    "stars": 4.5,
+    "count": 2465
+  },
+  "priceCents": 62374,
+  "keywords": [
+    "mobile",
+    "electronics",
+    "Iphone"
+  ],
+  "type": "electronics"
+},
+{
+  "id": "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
+  "image": "images/products/Mouse1.png",
+  "name": "Logitech Gaming Mouse - Black",
+  "rating": {
+    "stars": 4,
+    "count": 213
+  },
+  "priceCents": 2050,
+  "keywords": [
+    "mouse",
+    "electronics",
+    "gaming",
+    "logitech"
+  ]
+},
+{
+  "id": "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
+  "image": "images/products/Mouse2.png",
+  "name": "Logitech Wireless Gaming Mouse ",
+  "rating": {
+    "stars": 4,
+    "count": 326
+  },
+  "priceCents": 2140,
+  "keywords": [
+    "mouse",
+    "electronics",
+    "gaming",
+    "logitech"
+  ]
+},
+{
+  "id": "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
+  "image": "images/products/Shirt2.png",
+  "name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt - Black",
+  "rating": {
+    "stars": 4.5,
+    "count": 2552
+  },
+  "priceCents": 2199,
+  "keywords": [
+    "tshirts",
+    "shirts",
+    "apparel",
+    "mens"
+  ],
+  "type": "clothing",
+  "sizeChartLink": "images/clothing-size-chart.png"
+},
+{
+"id": "b86ddc8b-3501-4b17-9889-a3bad6fb585f",
+"image": "images/products/Shirt3.png",
+"name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt - Red",
+"rating": {
+"stars": 4.5,
+"count": 2342
+},
+"priceCents": 2200,
+"keywords": [
+"shirt",
+"tshirt",
+"clothing"
+]
+},
+{
+"id": "19c6a64a-5463-4d45-9af8-e41140a4100c",
+"image": "images/products/Shirt4.png",
+"name": "Black Fit T-Shirt",
+"rating": {
+"stars": 3,
+"count": 443
+},
+"priceCents": 1699,
+"keywords": [
+"shirts",
+"clothings",
+"men"
+]
+},
+{
+"id": "d2785924-743d-49b3-8f03-ec258e640503",
+"image": "images/products/Shirt6.png",
+"name": "Men's T-Shirt - (Green)",
+"rating": {
+"stars": 4.5,
+"count": 122
+},
+"priceCents": 2150,
+"keywords": [
+"shirts",
+"clothings",
+"men"
+]
+},
+{
+"id": "ee1f7c56-f977-40a4-9642-12ba5072e2b0",
+"image": "images/products/Pant4.png",
+"name": "Men's set of 3 trousers",
+"rating": {
+"stars": 4.5,
+"count": 9017
+},
+"priceCents": 3290,
+"keywords": [
+"pants",
+"apparel",
+"mens",
+"trouser"
+]
+},
+{
+"id": "1c079479-8586-494f-ab53-219325432536",
+"image": "images/products/Shirt8.png",
+"name": "Men's designer shirt",
+"rating": {
+"stars": 4,
+"count": 123
+},
+"priceCents": 3090,
+"keywords": [
+"shirts",
+"clothings",
+"men"
+]
+},
+{
+"id": "4df68c27-fd59-4a6a-bbd1-e754ddb6d53c",
+"image": "images/products/Mobile4.png",
+"name": "Iphone 13 - Gray",
+"rating": {
+"stars": 3.5,
+"count": 42
+},
+"priceCents": 52390,
+"keywords": [
+"mobile",
+"iphone",
+"electronics"
+]
+},
+{
+  "id": "4e37dd03-3b23-4bc6-9ff8-44e112a92c64",
+  "image": "images/products/Pant6.png",
+  "name": "Men's Grey Cotton Pant",
+  "rating": {
+    "stars": 4.5,
+    "count": 532
+  },
+  "priceCents": 3297,
+  "keywords": [
+    "men",
+    "clothing"
+  ]
+},
+{
+  "id": "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
+  "image": "images/products/Shirt9.png",
+  "name": "Men's White Plain Shirt",
+  "rating": {
+    "stars": 5,
+    "count": 231
+  },
+  "priceCents": 1832,
+  "keywords": [
+    "men",
+    "clothing",
+    "shirt"
+  ]
+},
+{
+  "id": "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
+  "image": "images/products/umbrella.jpg",
+  "name": "Umbrella - Dark Green",
+  "rating": {
+    "stars": 4.5,
+    "count": 248
+  },
+  "priceCents": 2000,
+  "keywords": [
+    "rain",
+    "umbrella"
+  ]
+},
+{
+  "id": "d339adf3-e004-4c20-a120-40e8874c66cb",
+  "image": "images/products/AC1.jpg",
+  "name": "Lloyd AC - 3 Star",
+  "rating": {
+    "stars": 3.5,
+    "count": 52
+  },
+  "priceCents": 42000,
+  "keywords": [
+    "electronics",
+    "AC"
+  ]
+},
+{
+  "id": "d37a651a-d501-483b-aae6-a9659b0757a0",
+  "image": "images/products/AC2.jpg",
+  "name": "Voltas AC - 4 Star",
+  "rating": {
+    "stars": 4,
+    "count": 100
+  },
+  "priceCents": 45999,
+  "keywords": [
+    "electronics",
+    "AC"
+  ]
+},
+{
+  "id": "0d7f9afa-2efe-4fd9-b0fd-ba5663e0a524",
+  "image": "images/products/Mobile5.jpg",
+  "name": "Samsung Galaxy S24 Ultra",
+  "rating": {
+    "stars": 5,
+    "count": 111
+  },
+  "priceCents": 55000,
+  "keywords": [
+    "coffeemakers",
+    "kitchen",
+    "appliances"
+  ]
+},
+{
+  "id": "02e3a47e-dd68-467e-9f71-8bf6f723fdae",
+  "image": "images/products/Shoe1.jpg",
+  "name": "Red Tape Sports Shoes ",
+  "rating": {
+    "stars": 4,
+    "count": 322
+  },
+  "priceCents": 3599,
+  "keywords": [
+    "men",
+    "shoe",
+    "footwear",
+    "sports"
+  ]
+},
+{
+  "id": "8a53b080-6d40-4a65-ab26-b24ecf700bce",
+  "image": "images/products/Shoe2.jpg",
+  "name": "Adidas Original Sports Shoes",
+  "rating": {
+    "stars": 4.5,
+    "count": 93
+  },
+  "priceCents": 4310,
+  "keywords": [
+    "men",
+    "shoe",
+    "footwear",
+    "sports"
+  ]
+},
+{
+  "id": "10ed8504-57db-433c-b0a3-fc71a35c88a1",
+  "image": "images/products/knit-athletic-sneakers-pink.webp",
+  "name": "Waterproof Knit Athletic Sneakers - Pink",
+  "rating": {
+    "stars": 4,
+    "count": 89
+  },
+  "priceCents": 3390,
+  "keywords": [
+    "shoes",
+    "running shoes",
+    "footwear",
+    "womens"
+  ]
+}
+,
+{
+  "id": "77a845b1-16ed-4eac-bdf9-5b591882113d",
+  "image": "images/products/Shoe3.jpg",
+  "name": "BATA Formal Shoes For Men",
+  "rating": {
+    "stars": 4,
+    "count": 32
+  },
+  "priceCents": 2547,
+  "keywords": [
+    "men",
+    "shoe",
+    "footwear",
+    "formal"
+  ]
+},
+{
+  "id": "36c64692-677f-4f58-b5ec-0dc2cf109e27",
+  "image": "images/products/Furniture1.jpg",
+  "name": "Luxury Double Bed",
+  "rating": {
+    "stars": 5,
+    "count": 679
+  },
+  "priceCents": 38099,
+  "keywords": [
+    "living room",
+    "furniture",
+    "bed"
+  ]
+},
+{
+  "id": "aaa65ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
+  "image": "images/products/BB1.jpg",
+  "name": "Adult Size Bean Bag",
+  "rating": {
+    "stars": 4.5,
+    "count": 104
+  },
+  "priceCents": 9999,
+  "keywords": [
+    "bean bag",
+    "living room",
+  ]
+},
+{
+  "id": "bc2847e9-5323-403f-b7cf-57fde044a955",
+  "image": "images/products/Furniture2.jpg",
+  "name": "Luxury Sofa - White",
+  "rating": {
+    "stars": 5,
+    "count": 157
+  },
+  "priceCents": 24000,
+  "keywords": [
+    "furniture",
+    "sofa",
+    "white",
+    "living room"
+  ]
+}
