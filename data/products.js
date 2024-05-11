@@ -183,7 +183,7 @@ export const products = [
   },
   {
     id: "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
-    image: "images/products/chair-red.png",
+    image: "images/products/Chair-red.png",
     name: "Super Luxury Gaming Chair - (Red-Black)",
     rating: {
       stars: 5,
